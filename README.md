@@ -164,7 +164,7 @@ Afficher pour chaque coach :
 
 * nombre total de séances créées
 * nombre de séances réservées
-* taux de réservation (%)
+* taux de réservation (%) (% de séances réservées par rapport au total des séances)
 * seulement les coachs ayant **≥3 séances**
 
 **À utiliser :** `JOIN`, `COUNT`, `GROUP BY`, `HAVING`
